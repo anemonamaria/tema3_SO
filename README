@@ -1,0 +1,23 @@
+Moraru Anemona Maria
+Tema 3 - Loader de Executabile
+Aprilie 2022
+333CC
+
+Organizare:
+-Parcurg vectorul de segmente pentru a gasi page-fault-urile.
+-Se mapeaza pagina si actualizez vectorul data.
+-Citesc la adresa mapata din fisierul sursa daca adresa paginii este 
+mai mica decat file-size-ul segmentului.
+
+Implementare:
+-Tema este realizata in totalitate.
+
+Cum se compileaza si cum se ruleaza?:
+-Cu ajutorul Makefile-ului din cadrul temei.
+
+
+Bibliografie:
+-Laboratoarele si cursurile SO.
+
+Git:
+-Nu am folosit.
